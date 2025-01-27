@@ -1,6 +1,6 @@
 # XTrack  
 
-**XTrack** is a practical tool to streamline the process of working with AI-separated instrument tracks. 
+**XTrack** is a practical tool to streamline the process of working with separated instrument tracks. 
 
 As a drummer, I often work with tracks where the drums are removed and bass guitar is enhanced. XTrack allows me to quickly combine these separated instruments into a single, cohesive track. The application can be used for any instrument.
 
