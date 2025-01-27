@@ -9,8 +9,6 @@
 - **Lightweight**: Focused on functionality without unnecessary complexity.  
 
 ## Repository and Resources  
-You can find the project on GitHub:  
-[GitHub Repository](https://github.com/OktayBalaban/Xtrack)
 
 The repository includes:  
 - A Visual Studio `.sln` file to open and modify the project.  
