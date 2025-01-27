@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Xtrack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+088b7e9985ba12b2172d139b4c8c0af494d4c9ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Xtrack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Xtrack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

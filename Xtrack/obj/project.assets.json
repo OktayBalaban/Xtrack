@@ -493,11 +493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oktay\\source\\repos\\Xtrack\\Xtrack\\Xtrack.csproj",
+      "projectUniqueName": "C:\\Users\\oktay\\Desktop\\Github\\ExtremeValueAnalysis\\Xtrack\\Xtrack\\Xtrack.csproj",
       "projectName": "Xtrack",
-      "projectPath": "C:\\Users\\oktay\\source\\repos\\Xtrack\\Xtrack\\Xtrack.csproj",
+      "projectPath": "C:\\Users\\oktay\\Desktop\\Github\\ExtremeValueAnalysis\\Xtrack\\Xtrack\\Xtrack.csproj",
       "packagesPath": "C:\\Users\\oktay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oktay\\source\\repos\\Xtrack\\Xtrack\\obj\\",
+      "outputPath": "C:\\Users\\oktay\\Desktop\\Github\\ExtremeValueAnalysis\\Xtrack\\Xtrack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
