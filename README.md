@@ -8,3 +8,11 @@
 - **Fast and Efficient**: Designed for speed and simplicity to keep the workflow smooth and hassle-free.  
 - **Lightweight**: Focused on functionality without unnecessary complexity.  
 
+## Repository and Resources  
+You can find the project on GitHub:  
+[GitHub Repository](https://github.com/OktayBalaban/Xtrack)
+
+The repository includes:  
+- A Visual Studio `.sln` file to open and modify the project.  
+- A standalone `.exe` file for quick usage without setup.  
+- Example tracks and a video demonstrating the application's functionality, available in the included folders.  
