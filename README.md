@@ -8,5 +8,3 @@
 - **Fast and Efficient**: Designed for speed and simplicity to keep the workflow smooth and hassle-free.  
 - **Lightweight**: Focused on functionality without unnecessary complexity.  
 
-## About the Project  
-XTrack was built for personal use, tailored to meet my need for a straightforward tool to process and merge tracks. It’s not about complex sound design—just a practical solution for combining and exporting music efficiently.
