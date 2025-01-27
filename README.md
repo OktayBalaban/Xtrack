@@ -12,5 +12,5 @@
 
 The repository includes:  
 - A Visual Studio `.sln` file to open and modify the project.  
-- A standalone `.exe` file for quick usage without setup.  
-- Example tracks and a video demonstrating the application's functionality, available in the included folders.  
+- A standalone `.exe` file for quick usage without setup (.NET installation required).  
+- Example tracks and a video demonstrating the application's functionality available in the included folders.  
